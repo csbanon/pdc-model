@@ -4,4 +4,4 @@
 - **Year:** 2020
 - **Language(s):** Java
 - **Discipline(s):** Algorithm Design and Analysis, Graph Theory, Network Theory
-- **Keywords:** `degree-distribution`, `dynamic-random-graphs`, `graphs`, `graph-generation`, `graph-theory`, `networks`, `network-theory`, `preferential-deletion`, `preferential-node-deletion`, `web-like-networks`
+- **Keywords:** `degree-distribution`, `dynamic-random-graphs`, `dynamic-random-networks`, `graphs`, `graph-algorithms`, `graph-generation`, `graph-theory`, `networks`, `network-theory`, `preferential-deletion`, `preferential-node-deletion`, `web-like-networks`
