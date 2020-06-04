@@ -14,3 +14,16 @@ This project is the second of a two-part research endeavor into Deo and Cami's p
 The results of this study were the following:
 1. The source code for the PDCModel, developed in Java.
 2. *Accounting for Changes in Existing Connections in the Preferential Deletion Model for Web-Like Networks*, a research-style paper discussing the findings from the study using the new model as compared to Deo and Cami's original model. Please note that this is not a published paper. It was simply done in the style of a research paper for the COT 5405: Design and Analysis of Algorithms graduate course at the University of Central Florida.
+
+## Build Instructions
+1. Download the `PDCModel` repository.
+2. Open `Run.java`. Use this file to modify the values of TIME, TRIALS, and P. These values are defined as follows:
+* TIME: the discrete value of time the model will run for.
+* TRIALS: the number of trials to run.
+* P: the value of p for the model. (There may be various values for p to be used for comparisons. For a detailed explanation of p, see the paper.)
+3. Compile `Run.java` using the following command:
+`javac Run.java`
+4. Run the file using the following command:
+`java Run`
+4. Run the file using the following command:
+4. Run the file using the following command:
