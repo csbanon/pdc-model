@@ -7,13 +7,14 @@
 - **Keywords:** `Degree-Distribution`, `Dynamic-Random-Graphs`, `Dynamic-Random-Networks`, `Graphs`, `Graph-Algorithms`, `Graph-Generation`, `Graph-Theory`, `Networks`, `Network-Theory`, `Preferential-Deletion`, `Preferential-Node-Deletion`, `Web-Like-Networks`
 
 ## Description
-The *Preferential Deletion Model with Changes in Existing Connections (PDCModel)* is an extension of the discrete-time dynamic random graph generation process described by Narsingh Deo and Aurel Cami in their 2005 study [*Preferential Deletion in Dynamic Models of Web-like Networks*](https://www.sciencedirect.com/science/article/abs/pii/S0020019006003632).
+The *Preferential Deletion Model with Changing in Existing Connections (PDCModel)* is an extension of the discrete-time random graph generation process described by Narsingh Deo and Aurel Cami in their 2005 paper [*Preferential Deletion in Dynamic Models of Web-Like Networks*](https://www.sciencedirect.com/science/article/abs/pii/S0020019006003632).
 
-This project is the second of a two-part research endeavor into Deo and Cami's paper. The first part simply implements their original model and replicates their findings, while this second part extends the implementation to account for changes in existing connections throughout the graph generation.
+Based on Deo and Cami's original model, the new *PDCModel* was developed to more accurately describe the behavior of social circles using graph theory (representing people as nodes, and connections as edges) by accounting for changes in connections for every unit of time throughout the random graph generation process. The model was then used in a study to analyze this behavior, resulting in the following:
 
-The results of this study were the following:
-1. The source code for the PDCModel, developed in Java.
-2. [*Accounting for Changes in Existing Connections in the Preferential Deletion Model for Web-Like Networks*](/accounting-for-changes-in-existing-connections-in-the-preferential-deletion-model-for-web-like-networks.pdf), a research-style paper discussing the findings from the study using the new model as compared to Deo and Cami's original model. Please note that this is not a published paper. It was simply done in the style of a research paper for the COT 5405: Design and Analysis of Algorithms graduate course at the University of Central Florida.
+1. *[Accounting for Changes in Existing Connections in the Preferential Deletion Model for Web-Like Networks](), a research-style paper discussing the findings from the study using the new model as compared to Deo and Cami's original model.
+2. The source code for the new *PDCModel*, developed in Java.
+
+This project is the second of a two-part research study done as part of the *COT 5405: Design and Analysis of Algorithms* graduate course at the University of Central Florida. The first part presents an implementation of Deo and Cami's original model and replicates their findings, while this second part extends the implementation to account for changes in existing connections throughout the random graph generation process.
 
 ## Build Instructions
 1. Download the `PDCModel` repository.
