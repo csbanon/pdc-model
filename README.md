@@ -21,6 +21,6 @@ This project is the second of a two-part research study conducted in the *COT 54
 2. Open `Run.java` in the `code` directory. Use this file to modify the values of `TIME`, `TRIALS`, and `P`. These values are defined as follows:
 * `TIME`: the discrete value of time the model will run for.
 * `TRIALS`: the number of trials to run.
-* `P: the value of p for the model. (There may be various values for p to be used for comparisons. For a detailed explanation of p, see the paper.)
+* `P`: the value of p for the model. (There may be various values for p to be used for comparisons. For a detailed explanation of p, see the paper.)
 3. Compile `Run.java` using the following command: `javac Run.java`
 4. Run the file using the following command: `java Run`
