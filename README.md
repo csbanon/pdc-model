@@ -4,7 +4,7 @@
 - **Year:** 2020
 - **Language(s):** Java
 - **Discipline(s):** Algorithm Design and Analysis, Graph Theory, Network Theory
-- **Keywords:** `Degree-Distribution`, `Dynamic-Random-Graphs`, `Dynamic-Random-Networks`, `Graphs`, `Graph-Algorithms`, `Graph-Generation`, `Graph-Theory`, `Networks`, `Network-Theory`, `Preferential-Deletion`, `Preferential-Node-Deletion`, `Web-Like-Networks`
+- **Keywords:** `Degree-Distribution`, `Dynamic-Random-Graphs`, `Dynamic-Random-Networks`, `Graphs`, `Graph-Algorithms`, `Graph-Generation`, `Graph-Theory`, `Networks`, `Network-Theory`, `Preferential-Deletion`, `Preferential-Node-Deletion`, `Social-Circles`, `Social-Media`, `Social-Networks`, `Social-Network-Analysis`, `Web-Like-Networks`
 
 ## Description
 The *Preferential Deletion Model with Changing in Existing Connections (PDCModel)* is an extension of the discrete-time random graph generation process described by Narsingh Deo and Aurel Cami in their 2005 paper [*Preferential Deletion in Dynamic Models of Web-Like Networks*](https://www.sciencedirect.com/science/article/abs/pii/S0020019006003632).
