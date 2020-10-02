@@ -24,5 +24,3 @@ This project is the second of a two-part research study conducted in the *COT 54
 * `P`: the value of p for the model. (There may be various values for p to be used for comparisons. For a detailed explanation of p, see the [paper](https://github.com/csbanon/pdc-model/blob/master/paper/pdc-model-paper.pdf).)
 3. Compile `Run.java` using the following command: `javac Run.java`
 4. Run the file using the following command: `java Run`
-
-![PDCModel Thumbnail](https://github.com/csbanon/pdc-model/blob/master/pdc-model-thumbnail.jpg)
